@@ -81,26 +81,26 @@ docassist/
 │\
 ├── data/
 │   └── dataset.csv\
-│
+│\
 ├── notebooks/
 │   └── data_exploration.ipynb
-│
+│\
 ├── src/
 │   ├── preprocess_data.py
 │   ├── train_model.py
 │   ├── recommend_treatment.py
 │   ├── interpret_model.py
 │   └── app.py
-│
-├── models/
+│\
+├── models/\
 │   └── saved_model.pkl
-│
-├── reports/
+│\
+├── reports/\
 │   └── model_interpretability_report.pdf
 │   └── project_report.pdf
-│
-├── requirements.txt
-└── README.md
+│\
+├── requirements.txt\
+└── README.md\
 ## Contributing
 Please read CONTRIBUTING.md for details on the code of conduct and the process for submitting pull requests.
 ## License
