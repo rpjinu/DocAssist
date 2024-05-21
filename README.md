@@ -78,9 +78,9 @@ The dataset for this project is available [here](dataset.csv).
 pip install -r requirements.txt
 ## Project Structure
 docassist/
-│
+│\
 ├── data/
-│   └── dataset.csv
+│   └── dataset.csv\
 │
 ├── notebooks/
 │   └── data_exploration.ipynb
