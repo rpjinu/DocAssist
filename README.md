@@ -100,7 +100,7 @@ docassist/\
 │   └── project_report.pdf\
 │\
 ├── requirements.txt\
-└── README.md\
+└── README.md
 ## Contributing
 Please read CONTRIBUTING.md for details on the code of conduct and the process for submitting pull requests.
 ## License
