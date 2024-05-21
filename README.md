@@ -77,27 +77,27 @@ The dataset for this project is available [here](dataset.csv).
 2.install requed package
 pip install -r requirements.txt
 ## Project Structure
-docassist/
+docassist/\
 │\
-├── data/
+├── data/\
 │   └── dataset.csv\
 │\
-├── notebooks/
-│   └── data_exploration.ipynb
+├── notebooks/\
+│   └── data_exploration.ipynb\
 │\
-├── src/
-│   ├── preprocess_data.py
-│   ├── train_model.py
-│   ├── recommend_treatment.py
-│   ├── interpret_model.py
-│   └── app.py
+├── src/\
+│   ├── preprocess_data.py\
+│   ├── train_model.py\
+│   ├── recommend_treatment.py\
+│   ├── interpret_model.py\
+│   └── app.py\
 │\
 ├── models/\
-│   └── saved_model.pkl
+│   └── saved_model.pkl\
 │\
 ├── reports/\
-│   └── model_interpretability_report.pdf
-│   └── project_report.pdf
+│   └── model_interpretability_report.pdf\
+│   └── project_report.pdf\
 │\
 ├── requirements.txt\
 └── README.md\
