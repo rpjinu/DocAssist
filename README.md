@@ -73,6 +73,37 @@ The dataset for this project is available [here](dataset.csv).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/docassist.git
+   git clone [https://github.com/rpjinu/docassist.git](https://github.com/rpjinu/DocAssist.git
+2.install requed package
+pip install -r requirements.txt
+## Project Structure
+docassist/
+│
+├── data/
+│   └── dataset.csv
+│
+├── notebooks/
+│   └── data_exploration.ipynb
+│
+├── src/
+│   ├── preprocess_data.py
+│   ├── train_model.py
+│   ├── recommend_treatment.py
+│   ├── interpret_model.py
+│   └── app.py
+│
+├── models/
+│   └── saved_model.pkl
+│
+├── reports/
+│   └── model_interpretability_report.pdf
+│   └── project_report.pdf
+│
+├── requirements.txt
+└── README.md
+## Contributing
+Please read CONTRIBUTING.md for details on the code of conduct and the process for submitting pull requests.
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
