@@ -1,5 +1,5 @@
 # DocAssist
-# DocAssist - Intelligent Medical Decision Support System
+# DocAssist - (Building Intelligent Medical Decision Support System)
 
 ## Project Overview
 
